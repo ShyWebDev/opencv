@@ -1,0 +1,14 @@
+[2021-08-12 15:52:30,390] ERROR openCV.Form1 ExecuteReader: ExecuteReader SQL logic error
+unrecognized token: "'tb_image" 
+[2021-08-12 15:57:27,684] ERROR openCV.Form1 ExecuteReader: ExecuteReader SQL logic error
+unrecognized token: "'tb_image" 
+[2021-08-12 15:57:30,051] ERROR openCV.Form1 ExecuteNonQuery: ExecuteReader SQL logic error
+near "index": syntax error 
+[2021-08-12 15:57:38,197] ERROR openCV.Form1 ExecuteReader: ExecuteReader SQL logic error
+unrecognized token: "'tb_image" 
+[2021-08-12 15:57:45,697] ERROR openCV.Form1 ExecuteNonQuery: ExecuteReader SQL logic error
+near "index": syntax error 
+[2021-08-12 15:59:23,996] ERROR openCV.Form1 ExecuteReader: ExecuteReader SQL logic error
+unrecognized token: "'tb_image" 
+[2021-08-12 15:59:39,107] ERROR openCV.Form1 ExecuteNonQuery: ExecuteReader SQL logic error
+near "index": syntax error 
